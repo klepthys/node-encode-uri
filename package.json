@@ -1,0 +1,22 @@
+{
+  "name": "encode-uri",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/klepthys/node-encode-uri",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "uri",
+    "encodeUriComponent",
+    "args",
+    "argv",
+    "queryString"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
